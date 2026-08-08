@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# PATHFINDER
 
-# Run and deploy your AI Studio app
+### AI-powered career discovery & university guidance platform
 
-This contains everything you need to run your app locally.
+PATHFINDER is an AI-powered career guidance platform designed to help students understand which educational and career directions may fit their strengths, interests, and way of thinking.
 
-View your app in AI Studio: https://ai.studio/apps/0d3e45f6-cc8c-4816-bd66-029ea46af636
+Instead of simply telling a student "you should become X", PATHFINDER explores multiple possible paths and connects them to real educational opportunities.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🚀 What PATHFINDER Does
 
+PATHFINDER guides a student through a short scenario-based assessment and generates a personalized career and education profile.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The experience follows:
+
+```text
+Assessment
+    ↓
+Cognitive Profile
+    ↓
+Career Directions
+    ↓
+Possible Professions
+    ↓
+NTC Cluster
+    ↓
+Specialties
+    ↓
+Universities
+    ↓
+Examination Subjects
+    ↓
+Next Steps
