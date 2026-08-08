@@ -1,0 +1,6 @@
+{
+  "name": "Ёвар",
+  "description": "AI-powered career and education discovery experience for students with official Tajikistan NTC and international university recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
